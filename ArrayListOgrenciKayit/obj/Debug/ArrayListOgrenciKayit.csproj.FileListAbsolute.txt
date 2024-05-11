@@ -1,0 +1,7 @@
+C:\Users\HaNa\Documents\GitHub\Uygulamalar-Applications\12.Ders ArrayList Koleksiyonu\ArrayListOgrenciKayit\ArrayListOgrenciKayit\bin\Debug\ArrayListOgrenciKayit.exe.config
+C:\Users\HaNa\Documents\GitHub\Uygulamalar-Applications\12.Ders ArrayList Koleksiyonu\ArrayListOgrenciKayit\ArrayListOgrenciKayit\bin\Debug\ArrayListOgrenciKayit.exe
+C:\Users\HaNa\Documents\GitHub\Uygulamalar-Applications\12.Ders ArrayList Koleksiyonu\ArrayListOgrenciKayit\ArrayListOgrenciKayit\bin\Debug\ArrayListOgrenciKayit.pdb
+C:\Users\HaNa\Documents\GitHub\Uygulamalar-Applications\12.Ders ArrayList Koleksiyonu\ArrayListOgrenciKayit\ArrayListOgrenciKayit\obj\Debug\ArrayListOgrenciKayit.csproj.AssemblyReference.cache
+C:\Users\HaNa\Documents\GitHub\Uygulamalar-Applications\12.Ders ArrayList Koleksiyonu\ArrayListOgrenciKayit\ArrayListOgrenciKayit\obj\Debug\ArrayListOgrenciKayit.csproj.CoreCompileInputs.cache
+C:\Users\HaNa\Documents\GitHub\Uygulamalar-Applications\12.Ders ArrayList Koleksiyonu\ArrayListOgrenciKayit\ArrayListOgrenciKayit\obj\Debug\ArrayListOgrenciKayit.exe
+C:\Users\HaNa\Documents\GitHub\Uygulamalar-Applications\12.Ders ArrayList Koleksiyonu\ArrayListOgrenciKayit\ArrayListOgrenciKayit\obj\Debug\ArrayListOgrenciKayit.pdb
